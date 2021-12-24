@@ -19,8 +19,8 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: rgb(187, 174, 174);
-    position: fixed;
+    background-color: rgb(8, 8, 8);
+    position: relative;
 }
 video{
     object-fit: cover;
